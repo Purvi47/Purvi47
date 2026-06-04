@@ -109,14 +109,10 @@ Machine Learning project for forecasting future electricity consumption using hi
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Purvi47&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvi47&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Purvi47&theme=radical" />
 </p>
 
 ---
