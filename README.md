@@ -21,7 +21,7 @@
 
 🤝 Open to collaborations on AI, ML, and Web Development projects
 
-📫 Reach me at: **your-email@example.com**
+📫 Reach me at: **purvi7454@gmail.com**
 
 ---
 
